@@ -1,0 +1,23 @@
+{
+ "author" : "Manikanta Bandaru",
+  "name"  : "censorByMani",
+  "version"  :"0.1.1",
+  "description" : "Censors words out text",
+  "main": "censortext",
+  "repository": {
+   "type" : "git",
+   "url" : "https://github.com/manikantabandaru/censorByMani"
+
+  },
+  "keywords":[
+   "censor",
+   "words"
+  ]   ,
+
+  "dependencies": {},
+  "engines": {
+        "node" : "*"
+  }
+
+
+}
